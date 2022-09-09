@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\PypTasks\PypTask2\PypTask2\bin\Debug\net6.0\PypTask2.exe
+C:\Users\HP\Desktop\PypTasks\PypTask2\PypTask2\bin\Debug\net6.0\PypTask2.deps.json
+C:\Users\HP\Desktop\PypTasks\PypTask2\PypTask2\bin\Debug\net6.0\PypTask2.runtimeconfig.json
+C:\Users\HP\Desktop\PypTasks\PypTask2\PypTask2\bin\Debug\net6.0\PypTask2.dll
+C:\Users\HP\Desktop\PypTasks\PypTask2\PypTask2\bin\Debug\net6.0\PypTask2.pdb
+C:\Users\HP\Desktop\PypTasks\PypTask2\PypTask2\obj\Debug\net6.0\PypTask2.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\PypTasks\PypTask2\PypTask2\obj\Debug\net6.0\PypTask2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\PypTasks\PypTask2\PypTask2\obj\Debug\net6.0\PypTask2.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\PypTasks\PypTask2\PypTask2\obj\Debug\net6.0\PypTask2.AssemblyInfo.cs
+C:\Users\HP\Desktop\PypTasks\PypTask2\PypTask2\obj\Debug\net6.0\PypTask2.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\PypTasks\PypTask2\PypTask2\obj\Debug\net6.0\PypTask2.dll
+C:\Users\HP\Desktop\PypTasks\PypTask2\PypTask2\obj\Debug\net6.0\refint\PypTask2.dll
+C:\Users\HP\Desktop\PypTasks\PypTask2\PypTask2\obj\Debug\net6.0\PypTask2.pdb
+C:\Users\HP\Desktop\PypTasks\PypTask2\PypTask2\obj\Debug\net6.0\PypTask2.genruntimeconfig.cache
+C:\Users\HP\Desktop\PypTasks\PypTask2\PypTask2\obj\Debug\net6.0\ref\PypTask2.dll
